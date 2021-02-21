@@ -1,5 +1,5 @@
 /* Global Variables */
-const apiKey = '2a693e3924564a94d91b93d0da4bdb08';
+const apiKey = 'xxxx';
 
 //Event Listener to retrieve Data
 document.getElementById('generate').addEventListener('click', updateWeather);
